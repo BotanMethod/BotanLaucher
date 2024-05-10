@@ -1,9 +1,9 @@
 # BotanLaucher
 EN: This is my launcher for MC!
-Do whatever you want
+Do whatever you want with it.
 
 RU: Это мой лаунчер для Майнкрафта!
-Делай всё что ты хочешь
+Делай всё что ты хочешь с этим.
 
 # LINKS:
 YouTube: https://www.youtube.com/@BlankCSGO2
